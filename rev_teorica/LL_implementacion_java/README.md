@@ -305,3 +305,6 @@ En el siguiente [link](src) se encuentra la solución. Puede revisar la solució
 ¡Bien hecho! Ha aprendido a crear, añadir, actualizar, acceder y eliminar elementos en una lista dinámica; habilidades cruciales para muchos escenarios de programación del mundo real. Ya sea organizando una búsqueda del tesoro, gestionando una lista de compras o manejando una secuencia de tareas, `LinkedList` ofrece una forma potente de mantener sus datos flexibles y adaptables. ¡Siga practicando y encontrará innumerables maneras de aplicar estas técnicas en sus proyectos!
 
 A medida que construye su conjunto de herramientas de programación, considere cómo estas habilidades podrían aplicarse a estructuras de datos más complejas. Por ahora, solo ha utilizado esta estructura como una `LinkedList` simple, que le permite moverse en una dirección. Pero, ¿qué pasaría si necesitara recorrerla hacia adelante y hacia atrás, como al implementar el historial de navegación "anterior" y "siguiente" de un navegador web o al gestionar una funcionalidad de "deshacer/rehacer" en una aplicación?.
+
+> [!IMPORTANT]
+> Este ejemplo es una adaptación al español de la actividad **Implementing a linked list** del curso **Data Structures and Algorithms** ([link](https://www.coursera.org/learn/developer-data-structures-and-algorithms?specialization=amazon-junior-software-developer)).
