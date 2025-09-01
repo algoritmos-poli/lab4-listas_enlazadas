@@ -57,17 +57,6 @@ Para ser efectivas, las listas enlazadas deben ser gestionadas activamente. Vari
 
 Veamos cada operación para entender cómo podría funcionar la aplicación de la lista de espera del restaurante.
 
-Estructuras de Datos
-Custom Gem
-
-Show thinking
-Here is the formal translation of the next sections.
-
-Gestionando las Listas Enlazadas: Operaciones Básicas
-Para ser efectivas, las listas enlazadas deben ser gestionadas activamente. Varias operaciones fundamentales son esenciales para mantener la naturaleza dinámica de esta estructura de datos, incluyendo la adición de nuevos nodos, la eliminación de nodos existentes y la actualización de los datos dentro de los nodos.
-
-Veamos cada operación para entender cómo podría funcionar la aplicación de la lista de espera del restaurante.
-
 #### 1. Añadiendo al Primer Cliente
 
 Al inicio del día, la cabeza (`head`) — el punto de partida de la lista enlazada — se establece en `null` porque no hay nada a lo que apuntar, ¡al menos no todavía!
