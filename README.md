@@ -1,2 +1,6 @@
-# lab4-listas_enlazadas_simples
-Laboratorio de listas enlazadas simples
+# Laboratorio 4 - Listas_enlazadas_simples
+
+Estamos trabajando en eso...
+
+Disculpe las molestias causadas.
+
