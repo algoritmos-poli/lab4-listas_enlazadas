@@ -446,3 +446,6 @@ La elección entre estas depende de los requisitos y prioridades, ya que ambas t
 En Java, una lista doblemente enlazada funciona tal como la línea de tren en este ejemplo, haciendo fácil el moverse tanto hacia adelante como hacia atrás a través de una secuencia de datos. Esta estructura es especialmente útil en escenarios donde se necesita navegar hacia adelante y hacia atrás, como al deshacer acciones en un editor de texto o navegar a través de páginas web en un navegador.
 
 Al comprender cómo se construye una lista doblemente enlazada y cómo funciona, usted está ahora mejor equipado para gestionar sus propios "trenes de datos", ya sea en código o en concepto. La próxima vez que se encuentre necesitando recorrer datos en ambas direcciones, piense en la línea de tren y en la lista doblemente enlazada que la impulsa.
+
+> [!IMPORTANT]
+> Este documento es una adaptación al español de la lectura **Doubly linked list – behind the scenes** del curso **Data Structures and Algorithms** ([link](https://www.coursera.org/learn/developer-data-structures-and-algorithms?specialization=amazon-junior-software-developer)).
