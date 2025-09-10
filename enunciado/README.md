@@ -362,3 +362,6 @@ Para entregar su tarea, agregue cada uno de los archivos fuentes con la solució
 A través de este laboratorio, usted ha desarrollado habilidades esenciales en la gestión y manipulación de registros estudiantiles, la navegación a través de estructuras de datos y la implementación de funcionalidades críticas como ver y navegar por calendarios de exámenes. Estas tareas son vitales para garantizar la precisión y eficiencia de los procesos administrativos de una institución educativa.
 
 En aplicaciones del mundo real, sistemas como el que ha construido son parte integral de instituciones educativas, empresas y otras organizaciones que necesitan gestionar y mantener registros precisos. La capacidad de agregar y navegar es crucial para mantener la integridad de los datos y proporcionar un acceso fiable a la información.
+
+> [!IMPORTANT]
+> Este laboratorio es una adaptación al español de la practica **Graded Lab: Data Structures** del curso **Data Structures and Algorithms** ([link](https://www.coursera.org/learn/developer-data-structures-and-algorithms?specialization=amazon-junior-software-developer)).
